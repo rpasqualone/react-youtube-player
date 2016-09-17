@@ -17,7 +17,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 ```
 
 ####Not Familiar with Git?#####
-Then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+Then [click here](https://github.com/rpasqualone/react-youtube-player/archive/master.zip) to download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
 	> npm install

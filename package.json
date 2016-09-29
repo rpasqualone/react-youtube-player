@@ -1,9 +1,12 @@
 {
-  "name": "redux-simple-starter",
+  "name": "react-youtube-player",
   "version": "1.0.0",
   "description": "Simple starter package for Redux with React and Babel support",
   "main": "index.js",
-  "repository": "gitgithub.com/rpasqualone/react-youtube-player",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpasqualone/react-youtube-player"
+  },
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
